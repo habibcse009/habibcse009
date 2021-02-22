@@ -77,4 +77,6 @@
 
 ### Statistics
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibcse009&theme=dark&hide_langs_below=1" />-->
-<img src="https://github-readme-stats.vercel.app/api?username=habibcse009&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/habibcse009">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibcse009&show_icons=true&theme=light&line_height=27" alt="habib's github stats"/>
+</a>
