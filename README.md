@@ -1,11 +1,6 @@
 ### Hi there 👋
 ### It's Me... 😄😄😄
 ### habibcse009! 👋 ⚡ 😄
-<!--
-**habibcse009/habibcse009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### habibcse009! 👋 
-<img src="https://komarev.com/ghpvc/?username=jamilxt&label=Views&color=a4c639&style=plastic" alt="jamilxt" />
 
 ### I'm a Java enthusiast
 
@@ -22,7 +17,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/habibcse009/) - [Twitter](https://twitter.com/habibcse009) - [Facebook](https://facebook.com/habibcse009) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love exploring new technologies and try new things and meet new peoples like me . 
-
+<!--
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/habibcse009/)
@@ -30,7 +25,7 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/8455003/habibcse009)
 
 <br />
-
+-->
 
 ### Mainly Availabe Connect
 <a href="https://linkedin.com/in/habibcse009">
@@ -75,11 +70,9 @@
 
 <br />
 
-<br />
-
 #### Most Used Languages!
 <a href="https://github.com/kawsar-95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-95&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibcse009&theme=light&hide_langs_below=1" />
 </a>
 
 ### Statistics
