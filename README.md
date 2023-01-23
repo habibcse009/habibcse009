@@ -1,6 +1,4 @@
 ### Hi there 👋
-### It's Me... 😄😄😄
-### habibcse009! 👋 ⚡ 😄
 ### Md Ahasan Habib
 ### I'm a Java enthusiast
 
@@ -57,8 +55,9 @@
 
 <br />
 
+
 #### Most Used Languages!
-<a href="https://github.com/kawsar-95">
+<a href="https://github.com/habibcse009">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibcse009&theme=light&hide_langs_below=1" />
 </a>
 
@@ -67,3 +66,15 @@
 <a href="https://github.com/habibcse009">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibcse009&show_icons=true&theme=light&line_height=27" alt="habib's github stats"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibcse009)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=habibcse009&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibcse009)  
+
+![GitHub metrics](https://metrics.lecoq.io/habibcse009)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibcse009)  
+
+![Profile views](https://gpvc.arturio.dev/habibcse009) 
