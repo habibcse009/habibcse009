@@ -44,5 +44,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/habibcse009)  
 
-[![Habib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=habibcse009&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Habib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=habibcse009&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
