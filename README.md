@@ -4,19 +4,6 @@
 ### Md Ahasan Habib
 ### I'm a Java enthusiast
 
-- ⚡ Learning Advance Framework
-- 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2022 Goals: Master at MERN Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
-- ⚡ Fun fact: I love watching YouTube in my free time & travel to new places.
-
-- 🔭 I’m currently working on Chaldal Limited.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Advance Java Development.
-- 💬 Ask me about Android Application Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/habibcse009/) - [Twitter](https://twitter.com/habibcse009) - [Facebook](https://facebook.com/habibcse009) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love exploring new technologies and try new things and meet new peoples like me . 
 <!--
 ### Connect with me:
 
