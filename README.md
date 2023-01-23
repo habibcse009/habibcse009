@@ -1,16 +1,6 @@
-### Hi there, I am 👋
-### Md Ahasan Habib
+ Hi there, I am 👋
+## Md Ahasan Habib           ![Profile views](https://gpvc.arturio.dev/habibcse009) 
 
-<!--
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/habibcse009/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/habibcse009/)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/8455003/habibcse009)
-
-<br />
--->
-
-### Mainly Availabe Connect
 <a href="https://linkedin.com/in/habibcse009">
   <img align="left" alt="habib's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a href="https://twitter.com/habibcse009">
@@ -18,6 +8,9 @@
 </a> <a href="https://github.com/habibcse009">
   <img align="left" alt="habib's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> <br>
+<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibcse009)  
 
 ### Languages and Tools:
 
@@ -49,10 +42,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=habibcse009&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibcse009)  
-
 ![GitHub metrics](https://metrics.lecoq.io/habibcse009)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibcse009)  
+[![Habib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=habibcse009&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/habibcse009) 
